@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Crispy - [Github](github.com/crispy-rw) / [Twitter](https://twitter.com/rw_crispy)
-Olly = [Github](https://github.com/ollyimanishimwe)
+Olly - [Github](https://github.com/ollyimanishimwe)
 
 Second part of Airbnb: Joann Vuong
 ## License
